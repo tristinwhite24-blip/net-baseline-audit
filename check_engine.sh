@@ -25,3 +25,4 @@ echo "$GOOGLE_DNS"
 
 echo "------------------------------------------------"
 echo " Audit Complete. Session Baseline established."
+echo "------------------------------------------------"
