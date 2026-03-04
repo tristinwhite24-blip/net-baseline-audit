@@ -15,4 +15,4 @@ To ensure the accuracy of the baseline, this tool is intended to be used alongsi
 ## 📋 Usage
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/net-baseline-audit.git](https://github.com/your-username/net-baseline-audit.git)
+   git clone https://github.com/tristinwhite24-blip/net-baseline-audit.git
