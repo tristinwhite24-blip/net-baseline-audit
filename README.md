@@ -1,18 +1,25 @@
-# net-baseline-audit
+# Network Baseline Auditor v2.1
+Automated network performance tracking for Emerald Broadband connections.
 
-A high-precision Bash utility designed for real-time network infrastructure auditing. This tool was developed to establish stable performance baselines in ISP environments, specifically optimized for high-frequency Intel workstations running KDE Neon.
+## Features
+- **Gateway Latency:** Measures RTT to Cloudflare (1.1.1.1).
+- **Dual-DNS Tracking:** Compares local System DNS against Google Public DNS (8.8.8.8) using direct UDP queries.
+- **Identity Logging:** Records Public IP and ISP name (Emerald Broadband LLC) to track failover events.
+- **CSV Logging:** Maintains a 6-column historical record for long-term baseline analysis.
 
-## 🚀 Key Features
-- **Sub-Millisecond Latency Tracking:** Monitors ICMP response times with high granularity.
-- **Packet Loss Analytics:** Real-time calculation of drop percentages to identify intermittent routing issues.
-- **Environment Aware:** Designed to run in high-performance kernel states to minimize jitter.
+## Installation
+Ensure you have the required Python libraries:
+\`\`\`bash
+pip install -r requirements.txt --break-system-packages
+\`\`\`
 
-## 🛠 Technical Optimization
-To ensure the accuracy of the baseline, this tool is intended to be used alongside system-hardening configurations:
-- **CPU Governor:** Locked to `performance` mode to eliminate frequency-scaling latency.
-- **PCIe Stability:** Optimized for Realtek 8821CE/8111 hardware by disabling ASPM to prevent firmware-level timing desyncs ($H2C$).
+## Usage
+Run the auditor directly:
+\`\`\`bash
+./audit.py
+\`\`\`
 
-## 📋 Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/tristinwhite24-blip/net-baseline-audit.git
+View the logs in a formatted table:
+\`\`\`bash
+column -s, -t network_log.csv
+\`\`\`
