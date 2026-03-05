@@ -11,3 +11,5 @@ Timestamp,Gateway_Latency_ms,System_DNS_ms,Google_DNS_ms,Public_IP,ISP
 2026-03-05 10:08:02,20.101,1.615,55.954,70.103.xxx.xxx,Emerald Broadband LLC.
 2026-03-05 11:00:01,9.550,3.069,33.144,70.103.xxx.xxx,Emerald Broadband LLC.
 2026-03-05 11:10:27,3.829,3.007,53.057,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-05 11:30:01,3.874,2.968,33.715,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-05 12:00:02,6.234,4.143,32.688,70.103.xxx.xxx,Emerald Broadband LLC.
