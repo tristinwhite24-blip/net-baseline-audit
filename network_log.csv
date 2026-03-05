@@ -3,9 +3,11 @@ Timestamp,Gateway_Latency_ms,System_DNS_ms,Google_DNS_ms,Public_IP,ISP
 2026-03-05 08:41:20,3.871,0,15,N/A,N/A
 2026-03-05 08:41:25,3.827,0,13,N/A,N/A
 2026-03-05 08:54:53,3.855,0,0,N/A,N/A
-2026-03-05 09:08:58,3.811,N/A,N/A,70.103.136.234,Emerald Broadband LLC.
-2026-03-05 09:17:47,3.841,N/A,N/A,70.103.136.234,Emerald Broadband LLC.
-2026-03-05 09:30:24,13.897,1.747,0.106,70.103.136.234,Emerald Broadband LLC.
-2026-03-05 09:47:20,3.795,2.921,73.796,70.103.136.234,Emerald Broadband LLC.
-2026-03-05 10:07:26,7.121,3.053,73.518,70.103.136.234,Emerald Broadband LLC.
-2026-03-05 10:08:02,20.101,1.615,55.954,70.103.136.234,Emerald Broadband LLC.
+2026-03-05 09:08:58,3.811,N/A,N/A,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-05 09:17:47,3.841,N/A,N/A,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-05 09:30:24,13.897,1.747,0.106,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-05 09:47:20,3.795,2.921,73.796,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-05 10:07:26,7.121,3.053,73.518,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-05 10:08:02,20.101,1.615,55.954,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-05 11:00:01,9.550,3.069,33.144,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-05 11:10:27,3.829,3.007,53.057,70.103.xxx.xxx,Emerald Broadband LLC.
