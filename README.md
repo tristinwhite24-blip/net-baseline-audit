@@ -1,11 +1,11 @@
-# Network Baseline Auditor v2.1
-Automated network performance tracking for Emerald Broadband connections.
+# Emerald NOC Suite v3.0
+Automated network performance tracking and security auditing for Emerald Broadband.
 
 ## Features
-- **Gateway Latency:** Measures RTT to Cloudflare (1.1.1.1).
-- **Dual-DNS Tracking:** Compares local System DNS against Google Public DNS (8.8.8.8) using direct UDP queries.
-- **Identity Logging:** Records Public IP and ISP name (Emerald Broadband LLC) to track failover events.
-- **CSV Logging:** Maintains a 6-column historical record for long-term baseline analysis.
+- **Continuous Audit:** Logs Gateway Latency and Dual-DNS benchmarks every 5 minutes.
+- **Live Dashboard:** Real-time Flask telemetry available at http://localhost:5000.
+- **Port Scanner:** Active security auditing for common ISP services (SSH, DNS, HTTP, HTTPS).
+- **Privacy Masking:** Automatically redacts public IPs (70.103.xxx.xxx) for security compliance.
 
 ## Installation
 Ensure you have the required Python libraries:
@@ -14,12 +14,6 @@ pip install -r requirements.txt --break-system-packages
 \`\`\`
 
 ## Usage
-Run the auditor directly:
-\`\`\`bash
-./audit.py
-\`\`\`
-
-View the logs in a formatted table:
-\`\`\`bash
-column -s, -t network_log.csv
-\`\`\`
+- **Audit:** \`./audit.py\` (Best run via Cron for a 5-minute baseline)
+- **Dashboard:** \`python3 dashboard.py\` (Best run as a systemd service)
+- **Scanner:** \`./scanner.py\`
