@@ -1094,3 +1094,94 @@ Timestamp,Gateway_Latency_ms,System_DNS_ms,Google_DNS_ms,Public_IP,ISP
 2026-03-20 16:45:01,3.935,7.109,35.143,70.103.xxx.xxx,Emerald Broadband LLC.
 2026-03-20 16:50:01,3.895,6.154,34.674,70.103.xxx.xxx,Emerald Broadband LLC.
 2026-03-20 16:55:01,6.619,9.152,36.759,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-20 17:00:01,3.923,9.104,37.338,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-20 17:05:01,15.12,8.963,36.174,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 09:35:01,ERROR,ERROR,ERROR,N/A,N/A
+2026-03-23 09:40:01,4.078,20.728,36.498,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 09:45:01,4.157,20.444,34.788,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 09:50:01,4.098,29.66,36.514,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 09:55:01,3.881,2.719,74.531,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 10:00:02,31.945,21.122,59.27,174.227.xxx.xxx,Verizon Business
+2026-03-23 10:05:02,42.99,7.693,102.371,174.227.xxx.xxx,Verizon Business
+2026-03-23 10:10:01,43.217,3.463,60.605,174.227.xxx.xxx,Verizon Business
+2026-03-23 10:15:02,15.734,27.918,57.251,174.227.xxx.xxx,Verizon Business
+2026-03-23 10:20:01,30.114,6.356,63.634,174.227.xxx.xxx,Verizon Business
+2026-03-23 10:25:01,35.659,8.969,57.06,174.227.xxx.xxx,Verizon Business
+2026-03-23 10:30:01,41.973,8.371,67.743,174.227.xxx.xxx,Verizon Business
+2026-03-23 10:35:01,37.868,8.072,103.05,174.227.xxx.xxx,Verizon Business
+2026-03-23 10:40:01,30.681,7.991,51.773,174.227.xxx.xxx,Verizon Business
+2026-03-23 10:45:01,4.198,28.544,55.971,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 10:50:02,3.923,3.178,33.309,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 10:55:01,3.887,6.786,74.474,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 11:00:01,3.945,9.157,36.307,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 11:05:02,3.904,8.335,35.406,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 11:10:01,3.919,5.447,34.662,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 11:15:02,3.955,7.164,36.749,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 11:20:01,3.887,2.84,33.524,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 11:25:01,4.024,9.032,35.039,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 11:30:02,4.022,29.325,35.935,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 11:35:01,3.945,28.857,35.459,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 11:40:01,4.09,9.283,54.883,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 11:45:01,4.072,9.56,35.787,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 11:50:01,3.958,9.315,76.37,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 11:55:02,4.039,29.634,36.883,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 12:00:01,4.13,9.806,35.17,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 12:05:02,4.059,9.29,67.842,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 12:10:01,4.039,9.381,35.091,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 12:15:02,3.96,29.838,37.507,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 12:20:01,4.125,9.327,35.998,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 12:25:01,4.141,9.815,37.433,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 12:30:43,3.911,29.9,54.859,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 12:35:01,4.033,9.478,35.197,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 12:40:02,4.003,28.341,35.237,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 12:45:01,3.925,8.152,35.944,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 12:50:02,4.022,9.398,197.51,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 12:55:01,4.042,9.11,35.472,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 13:00:01,4.016,5.102,32.509,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 13:05:02,3.923,8.273,36.016,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 13:10:01,3.925,8.991,35.748,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 13:15:02,4.069,29.265,36.159,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 13:20:01,4.104,8.884,56.09,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 13:25:02,4.073,30.52,35.564,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 13:30:01,3.937,3.487,34.5,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 13:35:01,3.901,10.57,57.292,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 13:40:01,3.937,3.152,33.683,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 13:45:01,4.03,12.599,56.388,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 13:50:01,4.05,9.971,35.02,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 13:55:02,3.989,8.949,135.493,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 14:00:01,3.989,9.216,34.841,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 14:05:01,3.913,8.615,36.461,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 14:10:01,4.005,9.611,35.944,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 14:15:01,3.968,9.121,77.169,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 14:20:01,4.132,8.665,36.593,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 14:25:01,3.996,9.147,77.025,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 14:30:01,4.046,9.176,55.758,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 14:35:02,4.002,9.257,35.609,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 14:40:01,4.056,9.41,36.381,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 14:45:02,3.992,29.809,197.026,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 14:50:01,4.684,9.008,35.092,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 14:55:01,4.076,8.89,36.187,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 15:00:01,4.068,11.904,35.946,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 15:05:01,4.072,9.208,57.085,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 15:10:01,3.981,9.149,37.617,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 15:15:01,3.978,8.205,55.187,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 15:20:01,4.044,9.086,35.971,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 15:25:01,4.062,8.914,36.685,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 15:30:01,4.025,29.457,76.818,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 15:35:01,4.108,12.021,37.402,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 15:40:02,4.055,9.006,54.548,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 15:45:01,3.916,3.016,33.037,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 15:50:02,4.031,9.157,35.921,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 15:55:01,3.998,9.087,35.516,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 16:00:02,3.994,9.001,56.155,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 16:05:01,3.992,28.698,37.53,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 16:10:02,3.96,12.076,35.28,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 16:15:01,4.016,9.152,37.306,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 16:20:02,4.009,8.999,35.206,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 16:25:01,3.996,8.992,34.606,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 16:30:02,3.952,9.366,36.489,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 16:35:01,4.078,8.866,35.913,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 16:40:01,4.008,8.967,34.82,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 16:45:01,4.047,8.924,68.502,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 16:50:01,4.04,9.135,36.265,70.103.xxx.xxx,Emerald Broadband LLC.
+2026-03-23 16:55:01,4.103,8.981,35.841,70.103.xxx.xxx,Emerald Broadband LLC.
